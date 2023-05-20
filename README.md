@@ -14,4 +14,5 @@
 |10| [Прогнозирование заказов такси](10.Taxi_orders) | Разработка системы предсказания объема заказа. | `pandas` , `matplotlib`, `numpy`, `scikit-learn`, `seaborn`, `catboost`, `xgboost`, `lightgbm`|
 |11| [Проект для «Викишоп»](11.NLP) | Построение модели NLP для поиска токсичных комментарии и отправки их на модерацию. | `pandas` , `matplotlib`, `numpy`, `scikit-learn`, `seaborn`, `NLTK`, `re`, `catboost`, `xgboost`, `lightgbm`|
 |12| [Определение возраста покупателей](12.Age_of_buyers) | Построение модели, которая по фотографии определит приблизительный возраст человека. | `pandas` , `matplotlib`, `numpy`, `seaborn`, `keras`|
+|13| [Финальный проект](13.Final_project) | Оптимизация производственных расходов с помощью построения модели предсказания температуры. | `pandas` , `matplotlib`, `numpy`, `scikit-learn`, `seaborn`, `catboost`, `xgboost`, `lightgbm`|
 
